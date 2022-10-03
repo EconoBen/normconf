@@ -3,12 +3,33 @@
   "displayName": "NormConf Light",
   "description": "Normconf chic",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EconoBen/normconf"
+  },
+  "author": {
+    "name": "Ben Labaschin (EconoBen)"
+  },
+  "publisher": "NormConf",
+  "bugs": {
+    "url": "https://github.com/EconoBen/normconf/issues",
+    "email": "benjaminlabaschin@gmail.com"
+  },
+  "license": "NormConf",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "normconf"
+  ],
+  "icon": "docs/normconf_logo.png",
+  "homepage": "https://normconf.com",
   "contributes": {
     "themes": [
       {

@@ -1,9 +1,7 @@
-# normconf README
+# About
 
-# Seeing your work
-`fn + F5`
+The *official* NormConf VSCode Theme! Go to [NormConf.com](https://normconf.com/) to sign up! 
 
-# Publishing the Package
-1. Install vsce: `npm install -g vsce`
-2. Package: `vsce package`
-3. Publish: `vsce publish`
+Stay tuned for NormConf Dark!
+
+If you would like to contribute to this theme, make a PR to https://github.com/EconoBen/normconf.
